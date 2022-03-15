@@ -11,6 +11,7 @@ Each guess made is coloured to show what each letter means.
 | Correct and In place | Green |
 | Correct but not in that position | Yellow |
 | Not in the word | Grey |
+
 These results then allow the user to make the next guess in the hopes of guessing the word.
 
 # Using the software
