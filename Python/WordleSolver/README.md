@@ -17,9 +17,9 @@ These results then allow the user to make the next guess in the hopes of guessin
 # Using the software
 
 When the software is run, it will ask a selection of options. These are
-0. Testing of the algorithm - Shows the current success rate of the algorithm.
-1. Using algorithm one on a current game.
-2. Using algorithm two on a current game.
+0: Testing of the algorithm - Shows the current success rate of the algorithm.
+1: Using algorithm one on a current game.
+2: Using algorithm two on a current game.
 
 To enter a result there will be 3 different letters.
 | Letter | Purpose | Wordle Colour |
